@@ -1,6 +1,8 @@
 # FVM
 .fvm
 
+.imgs
+
 # Miscellaneous
 *.class
 *.lock
